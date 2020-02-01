@@ -1,2 +1,3 @@
 NPM  : 1806269726
-Nama : Izzatunnisa Arwadi 
+Nama : Izzatunnisa Arwadi
+Jurusan : Sistem Informasi 
